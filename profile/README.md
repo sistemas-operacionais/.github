@@ -15,9 +15,9 @@
 
 | Data | Nota |
 | --- | --- |
-| 14/10/2024 | Apresentação da disciplina |
-| 18/10/2024 | --- |
-| 21/10/2024 | --- |
+| 14/10/2024 | Apresentação da disciplina; conceitos básicos; estrutura de um SO |
+| 18/10/2024 | Arquitetura de SO |
+| 21/10/2024 | Tarefas |
 | 25/10/2024 | --- |
 | 26/10/2024 | (sábado) |
 | 01/11/2024 | --- |
