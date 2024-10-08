@@ -6,6 +6,11 @@
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
 
 
+## Livros e links
+
+1. [MAZIERO, Carlos. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2](https://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start)
+2. [ARPACI-DUSSEAU, Remzi; ARPACI-DUSSEAU, Andrea; REIHER, Peter. Operating Systems: Three Easy Pieces. ](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 ## Calendário 2024.2
 
 | Data | Nota |
