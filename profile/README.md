@@ -15,7 +15,8 @@
 
 | Data | Nota |
 | --- | --- |
-| 14/10/2024 | Apresentação da disciplina; conceitos básicos; estrutura de um SO |
+| 11/10/2024 | Apresentação da disciplina; conceitos básicos |
+| 14/10/2024 | conceitos básicos [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-01.pdf) [slide](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-01.pdf);<br />estrutura de um SO [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-02.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-02.pdf) |
 | 18/10/2024 | Arquitetura de SO |
 | 21/10/2024 | Tarefas |
 | 25/10/2024 | --- |
