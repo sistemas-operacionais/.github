@@ -17,8 +17,8 @@
 | --- | --- |
 | 11/10/2024 | Apresentação da disciplina; conceitos básicos |
 | 14/10/2024 | conceitos básicos [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-01.pdf) [slide](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-01.pdf);<br />estrutura de um SO [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-02.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-02.pdf) |
-| 18/10/2024 | Arquitetura de SO |
-| 21/10/2024 | Tarefas |
+| 18/10/2024 | arquitetura de SO [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-03.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-03.pdf) |
+| 21/10/2024 | tarefas [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-03.pdf);<br />implementação de tarefas [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-05.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-05.pdf) |
 | 25/10/2024 | --- |
 | 26/10/2024 | (sábado) |
 | 01/11/2024 | --- |
