@@ -23,9 +23,9 @@
 | 26/10/2024 | (sábado) fork do repositório [github](https://github.com/sistemas-operacionais/2024.2) para entregar as respostas dos exercícios dos 3 capítulos anteriores |
 | 01/11/2024 | --- |
 | 04/11/2024 | --- |
-| 08/11/2024 | --- |
-| 09/11/2024 | --- |
-| 11/11/2024 | --- |
+| 08/11/2024 | Revisão |
+| 09/11/2024 | (sábado) |
+| 11/11/2024 | Estado de tarefas |
 | 18/11/2024 | --- |
 | 22/11/2024 | --- |
 | 25/11/2024 | --- |
