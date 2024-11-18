@@ -26,8 +26,8 @@
 | 08/11/2024 | Revisão |
 | 09/11/2024 | (sábado) |
 | 11/11/2024 | Estado de tarefas |
-| 18/11/2024 | --- |
-| 22/11/2024 | --- |
+| 18/11/2024 | [Avaliação em dupla](https://github.com/sistemas-operacionais/2024.2-tarefa-estado-avaliacao) |
+| 22/11/2024 | [Avaliação em dupla](https://github.com/sistemas-operacionais/2024.2-tarefa-estado-avaliacao) |
 | 25/11/2024 | --- |
 | 29/11/2024 | --- |
 | 02/12/2024 | --- |
