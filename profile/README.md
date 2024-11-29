@@ -29,7 +29,7 @@
 | 18/11/2024 | [Avaliação em dupla](https://github.com/sistemas-operacionais/2024.2-tarefa-estado-avaliacao) |
 | 22/11/2024 | [Avaliação em dupla](https://github.com/sistemas-operacionais/2024.2-tarefa-estado-avaliacao) |
 | 25/11/2024 | implementação de tarefas |
-| 29/11/2024 | threads, código no [repositório](https://github.com/sistemas-operacionais/python) |
+| 29/11/2024 | threads, código no [repositório](https://github.com/sistemas-operacionais/python), [diálogo com copilot](https://github.com/sistemas-operacionais/2024.2/blob/main/05-tarefa-implementacao/threads_python_com_python.md) |
 | 02/12/2024 | --- |
 | 06/12/2024 | --- |
 | 09/12/2024 | --- |
