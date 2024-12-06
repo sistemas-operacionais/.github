@@ -30,8 +30,8 @@
 | 22/11/2024 | [Avaliação em dupla](https://github.com/sistemas-operacionais/2024.2-tarefa-estado-avaliacao) |
 | 25/11/2024 | implementação de tarefas |
 | 29/11/2024 | threads, código no [repositório](https://github.com/sistemas-operacionais/python), [diálogo com copilot](https://github.com/sistemas-operacionais/2024.2/blob/main/05-tarefa-implementacao/threads_python_com_python.md) |
-| 02/12/2024 | --- |
-| 06/12/2024 | --- |
+| 02/12/2024 | escalonamento de tarefas [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-06.pdf) [texto guia](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf) <br />LEMBREM de fazer os exercícios |
+| 06/12/2024 | comunicação de (ou entre) tarefas |
 | 09/12/2024 | --- |
 | 13/12/2024 | (fim do 1o bimestre) |
 | 13/01/2025 | --- |
