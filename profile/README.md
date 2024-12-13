@@ -33,9 +33,9 @@
 | 02/12/2024 | escalonamento de tarefas [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-06.pdf) [texto guia](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf) <br />LEMBREM de fazer os exercícios |
 | 06/12/2024 | comunicação de (ou entre) tarefas [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-08.pdf) [texto](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
 | 09/12/2024 | mecanismos de comunicação entre tarefas [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-09.pdf) [texto](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
-| 13/12/2024 | (fim do 1o bimestre) avaliação |
-| 16/12/2024 | (início do 2o bimestre) |
-| 20/12/2024 | --- |
+| 13/12/2024 | (fim do 1o bimestre) [avaliação](https://github.com/sistemas-operacionais/2024.2-tarefa-avaliacao/) |
+| 16/12/2024 | (início do 2o bimestre) discução sobre avaliação |
+| 20/12/2024 | apresentação das respostas pela turma |
 | 13/01/2025 | --- |
 | 17/01/2025 | --- |
 | 18/01/2025 | (sábado) |
