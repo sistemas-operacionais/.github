@@ -36,10 +36,10 @@
 | 13/12/2024 | (fim do 1o bimestre) [avaliação](https://github.com/sistemas-operacionais/2024.2-tarefa-avaliacao/) |
 | 16/12/2024 | (início do 2o bimestre) discução sobre avaliação |
 | 20/12/2024 | apresentação das respostas pela turma |
-| 13/01/2025 | --- |
-| 17/01/2025 | --- |
+| 13/01/2025 | revisão sobre conceitos básicos, histórico, estrutura, arquitetura, e gestão de tarefas |
+| 17/01/2025 | revisão sobre comunicação entre tarefas e mecanismos de comunicação |
 | 18/01/2025 | (sábado) |
-| 20/01/2025 | --- |
+| 20/01/2025 | visita da [veezor](https://www.veezor.com/)<br />implementação de mecanismos de comunicação com python |
 | 24/01/2025 | --- |
 | 25/01/2025 | --- |
 | 27/01/2025 | --- |
