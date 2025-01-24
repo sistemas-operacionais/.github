@@ -40,7 +40,7 @@
 | 17/01/2025 | revisão sobre comunicação entre tarefas e mecanismos de comunicação |
 | 18/01/2025 | (sábado) |
 | 20/01/2025 | visita da [veezor](https://www.veezor.com/)<br />implementação de mecanismos de comunicação com python |
-| 24/01/2025 | [revisão de threads](https://github.com/sistemas-operacionais/2024.2/05-tarefa-implementacao/python-threads-introducao.md) |
+| 24/01/2025 | [revisão de threads em python](https://github.com/sistemas-operacionais/2024.2/blob/main/05-tarefa-implementacao/python-threads-introducao.md) |
 | 25/01/2025 | --- |
 | 27/01/2025 | --- |
 | 31/01/2025 | --- |
