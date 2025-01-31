@@ -43,7 +43,7 @@
 | 24/01/2025 | [revisão de threads em python](https://github.com/sistemas-operacionais/2024.2/blob/main/05-tarefa-implementacao/python-threads-introducao.md) |
 | 25/01/2025 | --- |
 | 27/01/2025 | [introdução a docker](https://github.com/sistemas-operacionais/2024.2/blob/main/docker/01-introducao.md) |
-| 31/01/2025 | --- |
+| 31/01/2025 | [socket tcp com python](https://github.com/sistemas-operacionais/2024.2/blob/main/python/socket-tcp.md)<br />relatório de visita |
 | 03/02/2025 | --- |
 | 07/02/2025 | --- |
 | 10/02/2025 | --- |
