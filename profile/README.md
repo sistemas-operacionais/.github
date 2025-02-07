@@ -44,10 +44,10 @@
 | 25/01/2025 | --- |
 | 27/01/2025 | [introdução a docker](https://github.com/sistemas-operacionais/2024.2/blob/main/docker/01-introducao.md) |
 | 31/01/2025 | [socket tcp com python](https://github.com/sistemas-operacionais/2024.2/blob/main/python/socket-tcp.md)<br />[relatório de visita](https://github.com/sistemas-operacionais/2024.2/blob/main/datacenter/modelo.md) |
-| 03/02/2025 | --- |
-| 07/02/2025 | --- |
-| 10/02/2025 | --- |
-| 14/02/2025 | --- |
+| 03/02/2025 | Visita ao datacenter do IFRN<br />**atividade de relatório** |
+| 07/02/2025 | [socket http com python](https://github.com/sistemas-operacionais/2024.2/blob/main/python/socket-http.md)<br />**atividade de relatório** |
+| 10/02/2025 | Visita a DGTI na reitoria<br />**atividade de relatório**|
+| 14/02/2025 | exemplo do http em python com docket |
 | 17/02/2025 | --- |
 | 21/02/2025 | --- |
 | 22/02/2025 | (sábado) |
