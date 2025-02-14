@@ -47,12 +47,12 @@
 | 03/02/2025 | Visita ao datacenter do IFRN<br />**atividade de relatório** |
 | 07/02/2025 | [socket http com python](https://github.com/sistemas-operacionais/2024.2/blob/main/python/socket-http.md)<br />**atividade de relatório** |
 | 10/02/2025 | Visita a DGTI na reitoria<br />**atividade de relatório**|
-| 14/02/2025 | exemplo do http em python com docket |
-| 17/02/2025 | --- |
-| 21/02/2025 | --- |
+| 14/02/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-09.pdf)<br />[Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-13.pdf)<br />[Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-10.pdf)<br />[Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-11.pdf) |
+| 17/02/2025 | Gestão de arquivos |
+| 21/02/2025 | Gestão de memória |
 | 22/02/2025 | (sábado) |
-| 24/02/2025 | --- |
-| 28/02/2025 | --- |
+| 24/02/2025 | Gestão de entrada/saída |
+| 28/02/2025 | apresentação de projeto integrador (PDS Web) |
 | 07/03/2025 | --- |
 | 10/03/2025 | (fim do 2o bimestre) |
 | 14/03/2025 | (prova final) |
