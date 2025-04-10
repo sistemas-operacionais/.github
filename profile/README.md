@@ -4,58 +4,55 @@
 - **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
 - disciplina: **SO** Sistemas Operacionais
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
-
+- aulas: 2M12 e 6M56, Lab 08
 
 ## Livros e links
 
 1. [MAZIERO, Carlos. Sistemas Operacionais: Conceitos e Mecanismos. Editora da UFPR, 2019. 456 p. ISBN 978-85-7335-340-2](https://wiki.inf.ufpr.br/maziero/doku.php?id=socm:start)
-2. [ARPACI-DUSSEAU, Remzi; ARPACI-DUSSEAU, Andrea; REIHER, Peter. Operating Systems: Three Easy Pieces. ](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+2. [ARPACI-DUSSEAU, Remzi; ARPACI-DUSSEAU, Andrea; REIHER, Peter. Operating Systems: Three Easy Pieces.](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+3. [GOMEX, Rafael. Docker para desenvolvedores.](https://leanpub.com/dockerparadesenvolvedores) [github](https://github.com/gomex/docker-para-desenvolvedores)
 
-## Calendário 2024.2
+## Calendário 2025.1
 
-| Data | Nota |
-| --- | --- |
-| 11/10/2024 | Apresentação da disciplina; conceitos básicos |
-| 14/10/2024 | conceitos básicos [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-01.pdf) [slide](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-01.pdf);<br />estrutura de um SO [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-02.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-02.pdf) |
-| 18/10/2024 | ENCOM<br />arquitetura de SO [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-03.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-03.pdf) |
-| 21/10/2024 | reunião com infoweb<br />tarefas [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-03.pdf) |
-| 25/10/2024 | TRE<br />implementação de tarefas [leitura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-05.pdf) [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-05.pdf) |
-| 26/10/2024 | (sábado) fork do repositório [github](https://github.com/sistemas-operacionais/2024.2) para entregar as respostas dos exercícios dos 3 capítulos anteriores |
-| 01/11/2024 | --- |
-| 04/11/2024 | --- |
-| 08/11/2024 | Revisão |
-| 09/11/2024 | (sábado) |
-| 11/11/2024 | Estado de tarefas |
-| 18/11/2024 | [Avaliação em dupla](https://github.com/sistemas-operacionais/2024.2-tarefa-estado-avaliacao) |
-| 22/11/2024 | [Avaliação em dupla](https://github.com/sistemas-operacionais/2024.2-tarefa-estado-avaliacao) |
-| 25/11/2024 | implementação de tarefas |
-| 29/11/2024 | threads, código no [repositório](https://github.com/sistemas-operacionais/python), [diálogo com copilot](https://github.com/sistemas-operacionais/2024.2/blob/main/05-tarefa-implementacao/threads_python_com_python.md) |
-| 02/12/2024 | escalonamento de tarefas [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-06.pdf) [texto guia](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf) <br />LEMBREM de fazer os exercícios |
-| 06/12/2024 | comunicação de (ou entre) tarefas [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-08.pdf) [texto](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
-| 09/12/2024 | mecanismos de comunicação entre tarefas [slides](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-09.pdf) [texto](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
-| 13/12/2024 | (fim do 1o bimestre) [avaliação](https://github.com/sistemas-operacionais/2024.2-tarefa-avaliacao/) |
-| 16/12/2024 | (início do 2o bimestre) discução sobre avaliação |
-| 20/12/2024 | apresentação das respostas pela turma |
-| 13/01/2025 | revisão sobre conceitos básicos, histórico, estrutura, arquitetura, e gestão de tarefas |
-| 17/01/2025 | revisão sobre comunicação entre tarefas e mecanismos de comunicação |
-| 18/01/2025 | (sábado) |
-| 20/01/2025 | visita da [veezor](https://www.veezor.com/)<br />implementação de mecanismos de comunicação com python |
-| 24/01/2025 | [revisão de threads em python](https://github.com/sistemas-operacionais/2024.2/blob/main/05-tarefa-implementacao/python-threads-introducao.md) |
-| 25/01/2025 | --- |
-| 27/01/2025 | [introdução a docker](https://github.com/sistemas-operacionais/2024.2/blob/main/docker/01-introducao.md) |
-| 31/01/2025 | [socket tcp com python](https://github.com/sistemas-operacionais/2024.2/blob/main/python/socket-tcp.md)<br />[relatório de visita](https://github.com/sistemas-operacionais/2024.2/blob/main/datacenter/modelo.md) |
-| 03/02/2025 | Visita ao datacenter do IFRN<br />**atividade de relatório** |
-| 07/02/2025 | [socket http com python](https://github.com/sistemas-operacionais/2024.2/blob/main/python/socket-http.md)<br />**atividade de relatório** |
-| 10/02/2025 | Visita a DGTI na reitoria<br />**atividade de relatório**|
-| 14/02/2025 | [docker e servidor/cliente python](https://github.com/sistemas-operacionais/2024.2/blob/main/docker/02-imagem-e-container.md) |
-| 17/02/2025 | continuação<br />[avaliação de docker](https://github.com/sistemas-operacionais/2024.2/blob/main/docker/03-avaliacao.md) |
-| 21/02/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-09.pdf)<br />[Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-13.pdf)<br />[Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-10.pdf)<br />[Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-11.pdf) |
-| 22/02/2025 | (sábado) |
-| 24/02/2025 |  |
-| 28/02/2025 | apresentação de projeto integrador (PDS Web) |
-| 07/03/2025 | --- |
-| 10/03/2025 | (fim do 2o bimestre) |
-| 14/03/2025 | (prova final) |
-
-
-
+| Data       | Nota |
+| ---------- | ---- |
+| 07/04/2024 | **1o bimestre**<br />Apresentação da disciplina; conceitos básicos |
+| 11/04/2025 | Conceitos básicos e estrutura de um SO<br />Introdução a docker |
+| 12/04/2025 | **sábado/tarefa**<br />em breve... |
+| 14/04/2025 | em breve... |
+| 25/04/2025 | em breve... |
+| 26/04/2025 | **sábado/tarefa**<br />docker _em breve_ |
+| 28/04/2025 | em breve... |
+| 02/05/2025 | em breve... |
+| 05/05/2025 | em breve... |
+| 09/05/2025 | em breve... |
+| 12/05/2025 | em breve... |
+| 16/05/2025 | em breve... |
+| 19/05/2025 | em breve... |
+| 23/05/2025 | em breve... |
+| 26/05/2025 | em breve... |
+| 30/05/2025 | em breve... |
+| 02/06/2025 | em breve... |
+| 06/06/2025 | em breve... |
+| 07/06/2025 | **sábado/tarefa**<br />em breve... |
+| 09/06/2025 | em breve... |
+| 13/06/2025 | **2o bimestre**<br />em breve... |
+| 16/06/2025 | em breve... |
+| 23/06/2025 | em breve... |
+| 27/06/2025 | em breve... |
+| 28/06/2025 | **sábado/tarefa**<br />em breve... |
+| 30/06/2025 | em breve... |
+| 04/07/2025 | em breve... |
+| 07/07/2025 | em breve... |
+| 11/07/2025 | em breve... |
+| 12/07/2025 | **sábado/tarefa**<br />em breve... |
+| 14/07/2025 | em breve... |
+| 18/07/2025 | em breve... |
+| 21/07/2025 | em breve... |
+| 25/07/2025 | em breve... |
+| 28/07/2025 | em breve... |
+| 01/08/2025 | em breve... |
+| 04/08/2025 | em breve... |
+| 08/08/2025 | em breve... |
+| 11/08/2025 | em breve... |
+| 15/08/2025 | **prova final** |
