@@ -18,10 +18,10 @@
 | ---------- | ---- |
 | 07/04/2024 | **1o bimestre**<br />Apresentação da disciplina; conceitos básicos |
 | 11/04/2025 | Conceitos básicos e estrutura de um SO<br />Introdução a docker |
-| 12/04/2025 | **sábado/tarefa**<br />em breve... |
-| 14/04/2025 | em breve... |
+| 12/04/2025 | **sábado/tarefa**<br />[atividade de introdução a docker](https://github.com/sistemas-operacionais/2025-1-atividade-01-docker-introducao) |
+| 14/04/2025 | [atividade de introdução a docker](https://github.com/sistemas-operacionais/2025-1-atividade-01-docker-introducao) |
 | 25/04/2025 | em breve... |
-| 26/04/2025 | **sábado/tarefa**<br />docker _em breve_ |
+| 26/04/2025 | **sábado/tarefa**<br />_em breve_ |
 | 28/04/2025 | em breve... |
 | 02/05/2025 | em breve... |
 | 05/05/2025 | em breve... |
