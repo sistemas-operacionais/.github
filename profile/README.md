@@ -21,15 +21,15 @@
 | 12/04/2025 | **sábado/tarefa**<br />[atividade de introdução a docker](https://github.com/sistemas-operacionais/2025-1-atividade-01-docker-introducao) |
 | 14/04/2025 | [atividade de introdução a docker](https://github.com/sistemas-operacionais/2025-1-atividade-01-docker-introducao) |
 | 25/04/2025 | [Arquitetura de SO](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-03.pdf), [conceito de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) [usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
-| 26/04/2025 | **sábado/tarefa**<br />_em breve_ |
-| 28/04/2025 | [Arquitetura de SO](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-03.pdf), [conceito de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) [usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
-| 02/05/2025 | em breve... |
-| 05/05/2025 | em breve... |
-| 09/05/2025 | em breve... |
-| 12/05/2025 | em breve... |
-| 16/05/2025 | em breve... |
-| 19/05/2025 | em breve... |
-| 23/05/2025 | em breve... |
+| 26/04/2025 | **sábado/tarefa**<br />[usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
+| 28/04/2025 | [conceito de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) |
+| 02/05/2025 | **tarefa**<br />[usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
+| 05/05/2025 | Prática com docker e bash no fedora |
+| 09/05/2025 | [usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
+| 12/05/2025 | [Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-05.pdf) |
+| 16/05/2025 | prática com _implementação de tarefas_ |
+| 19/05/2025 | [Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf) |
+| 23/05/2025 | Usando `Docker file` |
 | 26/05/2025 | em breve... |
 | 30/05/2025 | em breve... |
 | 02/06/2025 | em breve... |
