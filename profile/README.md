@@ -29,7 +29,7 @@
 | 12/05/2025 | [Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-05.pdf) |
 | 16/05/2025 | **tarefa 03**<br />[prática com _implementação de tarefas_](https://github.com/sistemas-operacionais/2025-1-atividade-03-tarefas) |
 | 19/05/2025 | [Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf) |
-| 23/05/2025 | Usando `Docker file` |
+| 23/05/2025 | **atividade 04**<br />[prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
 | 26/05/2025 | em breve... |
 | 30/05/2025 | em breve... |
 | 02/06/2025 | em breve... |
