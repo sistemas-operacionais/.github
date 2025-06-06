@@ -32,9 +32,9 @@
 | 23/05/2025 | **atividade 04**<br />[prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
 | 26/05/2025 | [prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
 | 30/05/2025 | [Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
-| 02/06/2025 | em breve... |
-| 06/06/2025 | em breve... |
-| 07/06/2025 | **sábado/tarefa**<br />em breve... |
+| 02/06/2025 | **atividade 05**<br />[Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
+| 06/06/2025 | **atividade 05**<br />[Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
+| 07/06/2025 | **sábado/tarefa**<br />**atividade 05**<br />[Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
 | 09/06/2025 | em breve... |
 | 13/06/2025 | **2o bimestre**<br />em breve... |
 | 16/06/2025 | em breve... |
