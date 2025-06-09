@@ -33,7 +33,7 @@
 | 26/05/2025 | [prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
 | 30/05/2025<br />02/06/2025 | [Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
 | 06/06/2025<br />07/06/2025<br />09/06/2025<br />13/06/2025 | **atividade 05** [Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
-|  | **2o bimestre**<br /> |
+|  | **2o bimestre**<br />[Gestão de arquivos - sistemas de arquivos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-24.pdf) |
 | 16/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
 | 20/06/2025 | **atividade 01** Mecanismo de comunicação |
 | 23/06/2025 | [Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) e [Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-11.pdf) |
