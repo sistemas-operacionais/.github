@@ -31,21 +31,18 @@
 | 19/05/2025 | [Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf) |
 | 23/05/2025 | **atividade 04**<br />[prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
 | 26/05/2025 | [prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
-| 30/05/2025 | [Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
-| 02/06/2025 | **atividade 05**<br />[Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
-| 06/06/2025 | **atividade 05**<br />[Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
-| 07/06/2025 | **sábado/tarefa**<br />**atividade 05**<br />[Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
-| 09/06/2025 | em breve... |
-| 13/06/2025 | **2o bimestre**<br />em breve... |
-| 16/06/2025 | em breve... |
-| 23/06/2025 | em breve... |
-| 27/06/2025 | em breve... |
-| 28/06/2025 | **sábado/tarefa**<br />em breve... |
-| 30/06/2025 | em breve... |
-| 04/07/2025 | em breve... |
+| 30/05/2025<br />02/06/2025 | [Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
+| 06/06/2025<br />07/06/2025<br />09/06/2025<br />13/06/2025 | **atividade 05** [Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
+|  | **2o bimestre**<br /> |
+| 16/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
+| 20/06/2025 | **atividade 01** Mecanismo de comunicação |
+| 23/06/2025 | [Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) e [Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-11.pdf) |
+| 27/06/2025<br />28/06/2025 | **atividade 02** Coordenação entre tarefas |
+| 30/06/2025 | [Problemas clássicos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-12.pdf) |
+| 04/07/2025 | [Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-13.pdf) |
 | 07/07/2025 | em breve... |
 | 11/07/2025 | em breve... |
-| 12/07/2025 | **sábado/tarefa**<br />em breve... |
+| 12/07/2025 | **sábado/tarefa**<br /> Problemas clássicos |
 | 14/07/2025 | em breve... |
 | 18/07/2025 | em breve... |
 | 21/07/2025 | em breve... |
