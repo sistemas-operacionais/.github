@@ -36,9 +36,9 @@
 |  | **2o bimestre**<br />[Gestão de arquivos - sistemas de arquivos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-24.pdf) |
 | 16/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
 | 20/06/2025 | **atividade 01** Mecanismo de comunicação |
-| 23/06/2025 | [Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) e [Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-11.pdf) |
+| 23/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
 | 27/06/2025 | visita a dgti/reitoria/ifrn |
-| 28/06/2025 | **atividade 02** Coordenação entre tarefas |
+| 28/06/2025 | [Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) e [Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-11.pdf) **atividade 02** Coordenação entre tarefas |
 | 30/06/2025 | [Problemas clássicos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-12.pdf) |
 | 04/07/2025 | [Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-13.pdf) |
 | 07/07/2025 | em breve... |
