@@ -35,21 +35,21 @@
 | 06/06/2025<br />07/06/2025<br />09/06/2025<br />13/06/2025 | **atividade 05** [Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
 |  | **2o bimestre**<br />[Gestão de Arquivos - sistemas de arquivos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-24.pdf) |
 | 16/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
-| 20/06/2025 | **atividade 01** Mecanismo de comunicação |
+| 20/06/2025 | **atividade** Mecanismo de comunicação |
 | 23/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
-| 27/06/2025 | **atividade 02** [visita a dgti/reitoria/ifrn](https://github.com/sistemas-operacionais/2025-1-Atividade-2.1-DIGTI-Relatorio-Visita) |
-| 28/06/2025 | [Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) e [Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-11.pdf) **atividade 03** Coordenação entre tarefas |
+| 27/06/2025 | **atividade 1** [visita a dgti/reitoria/ifrn](https://github.com/sistemas-operacionais/2025-1-Atividade-2.1-DIGTI-Relatorio-Visita) |
+| 28/06/2025 | [Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) e [Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-11.pdf) **atividade** Coordenação entre tarefas |
 | 30/06/2025 | [Problemas clássicos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-12.pdf) |
 | 04/07/2025 | [Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-13.pdf) |
 | 07/07/2025 | [Gestão de Arquivos - Conceito](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-22.pdf) |
 | 11/07/2025 | Gestão de Arquivos - [Uso](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-23.pdf) e [Diretórios e atalhos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-25.pdf) |
-| 12/07/2025 | **sábado/tarefa**<br />**Atividade 04**Problemas clássicos |
+| 12/07/2025 | **sábado/tarefa**<br />**Atividade**Problemas clássicos |
 | 14/07/2025<br />18/07/2025 | OBT 2025 |
 | 21/07/2025 | [Gestão de Memória - Hardware](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-14.pdf) |
-| 25/07/2025 | em breve... |
-| 28/07/2025 | em breve... |
-| 01/08/2025 | em breve... |
-| 04/08/2025 | em breve... |
-| 08/08/2025 | em breve... |
+| 25/07/2025 | Gestão de Memória |
+| 28/07/2025 | WTADS |
+| 01/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
+| 04/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
+| 08/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
 | 11/08/2025 | em breve... |
 | 15/08/2025 | **prova final** |
