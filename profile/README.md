@@ -48,8 +48,6 @@
 | 21/07/2025 | [Gestão de Memória - Hardware](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-14.pdf) |
 | 25/07/2025 | Gestão de Memória |
 | 28/07/2025 | WTADS |
-| 01/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
-| 04/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
-| 08/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
+| 01/08/2025<br />04/08/2025<br />08/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
 | 11/08/2025 | em breve... |
 | 15/08/2025 | **prova final** |
