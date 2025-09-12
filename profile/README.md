@@ -4,7 +4,7 @@
 - **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
 - disciplina: **SO** Sistemas Operacionais
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
-- aulas: 2M12 e 6M56, Lab 08
+- aulas: 2V12 (Lab 08) e 6V56 (Lab 06)
 
 ## Livros e links
 
@@ -12,42 +12,47 @@
 2. [ARPACI-DUSSEAU, Remzi; ARPACI-DUSSEAU, Andrea; REIHER, Peter. Operating Systems: Three Easy Pieces.](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 3. [GOMEX, Rafael. Docker para desenvolvedores.](https://leanpub.com/dockerparadesenvolvedores) [github](https://github.com/gomex/docker-para-desenvolvedores)
 
-## Calendário 2025.1
+## Calendário 2025.2
 
 | Data       | Nota |
 | ---------- | ---- |
-| 07/04/2024 | **1o bimestre**<br />Apresentação da disciplina; conceitos básicos |
-| 11/04/2025 | Conceitos básicos e estrutura de um SO<br />Introdução a docker |
-| 12/04/2025 | **sábado/tarefa**<br />[atividade de introdução a docker](https://github.com/sistemas-operacionais/2025-1-atividade-01-docker-introducao) |
-| 14/04/2025 | [atividade de introdução a docker](https://github.com/sistemas-operacionais/2025-1-atividade-01-docker-introducao) |
-| 25/04/2025 | [Arquitetura de SO](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-03.pdf), [conceito de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) [usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
-| 26/04/2025 | **sábado/tarefa 01**<br />[usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
-| 28/04/2025 | [conceito de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) |
-| 02/05/2025 | **tarefa 02**<br />[usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
-| 05/05/2025 | Prática com docker e bash no fedora |
-| 09/05/2025 | [usando linux no windows](https://github.com/sistemas-operacionais/2025-1-atividade-02-docker-linux-introducao) |
-| 12/05/2025 | [Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-05.pdf) |
-| 16/05/2025 | **tarefa 03**<br />[prática com _implementação de tarefas_](https://github.com/sistemas-operacionais/2025-1-atividade-03-tarefas) |
-| 19/05/2025 | [Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf) |
-| 23/05/2025 | **atividade 04**<br />[prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
-| 26/05/2025 | [prática de escalonamento de tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-04-escolonador) |
-| 30/05/2025<br />02/06/2025 | [Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
-| 06/06/2025<br />07/06/2025<br />09/06/2025<br />13/06/2025 | **atividade 05** [Comunicação entre tarefas](https://github.com/sistemas-operacionais/2025-1-atividade-05-comunicacao) |
-|  | **2o bimestre**<br />[Gestão de Arquivos - sistemas de arquivos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-slides-24.pdf) |
-| 16/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
-| 20/06/2025 | **atividade** Mecanismo de comunicação |
-| 23/06/2025 | [Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
-| 27/06/2025 | **atividade 1** [visita a dgti/reitoria/ifrn](https://github.com/sistemas-operacionais/2025-1-Atividade-2.1-DIGTI-Relatorio-Visita) |
-| 28/06/2025 | [Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) e [Mecanismos de coordenação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-11.pdf) **atividade** Coordenação entre tarefas |
-| 30/06/2025 | [Problemas clássicos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-12.pdf) |
-| 04/07/2025 | [Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-13.pdf) |
-| 07/07/2025 | [Gestão de Arquivos - Conceito](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-22.pdf) |
-| 11/07/2025 | Gestão de Arquivos - [Uso](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-23.pdf) e [Diretórios e atalhos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-25.pdf) |
-| 12/07/2025 | **sábado/tarefa**<br />**Atividade**Problemas clássicos |
-| 14/07/2025<br />18/07/2025 | OBT 2025 |
-| 21/07/2025 | [Gestão de Memória - Hardware](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-14.pdf) |
-| 25/07/2025 | Gestão de Memória |
-| 28/07/2025 | WTADS |
-| 01/08/2025<br />04/08/2025<br />08/08/2025 | **Atividade 02** [Gestão de memória](https://github.com/sistemas-operacionais/2025-1-Atividade-2.2-Memoria) |
-| 11/08/2025 | em breve... |
-| 15/08/2025 | **prova final** |
+| 12/09/2025 | *1o bimestre*<br />Aula inicial: [introdução a SO](https://github.com/sistemas-operacionais/2025.2-Notas-01-Introducao) e [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao)|
+| 13/09/2025 | (sábado) |
+| 15/09/2025 | |
+| 19/09/2025 | |
+| 22/09/2025 | |
+| 26/09/2025 | |
+| 29/09/2025 | |
+| 06/10/2025 | |
+| 10/10/2025 | |
+| 11/10/2025 | (sábado) |
+| 20/10/2025 | |
+| 24/10/2025 | |
+| 25/10/2025 | (sábado) |
+| 31/10/2025 | |
+| 03/11/2025 | |
+| 07/11/2025 | |
+| 08/11/2025 | (sábado) |
+| 10/11/2025 | _1o bimestre fim_<br /> |
+| 14/11/2025 | *2o bimestre*<br /> |
+| 17/11/2025 |  |
+| 24/11/2025 |  |
+| 28/11/2025 |  |
+| 29/11/2025 | (sábado) |
+| 01/12/2025 |  |
+| 05/12/2025 |  |
+| 08/12/2025 |  |
+| 12/12/2025 |  |
+| 15/12/2025 |  |
+| 19/12/2025 |  |
+| 22/12/2025 |  |
+| 24/12/2025 a 18/01/2026 | *recesso* |
+| 19/01/2026 | |
+| 23/01/2026 | |
+| 26/01/2026 | |
+| 30/01/2026 | |
+| 31/01/2026 | (sábado) |
+| 02/02/2026 | |
+| 06/02/2026 | |
+| 09/02/2026 | _2o bimestre fim_<br /> |
+| 11-13/02/2026 | *provas finais* |
