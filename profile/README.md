@@ -18,9 +18,9 @@
 | ---------- | ---- |
 | 12/09/2025 | *1o bimestre*<br />Aula inicial: [introdução a SO](https://github.com/sistemas-operacionais/2025.2-Notas-01-Introducao) e [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao)|
 | 13/09/2025 (sábado)<br />15/09/2025 | [nota de aula de introdução a linux](https://github.com/sistemas-operacionais/2025-2-Notas-03-Linux-Intro)<br />*atividade 01* [introdução a docker e linux](https://github.com/sistemas-operacionais/2025.2-Atividades-02-Docker-Introducao/) |
-| 19/09/2025 | |
-| 22/09/2025 | |
-| 26/09/2025 | |
+| 19/09/2025 | [nota de aula sobre história da computação](https://github.com/sistemas-operacionais/2025-2-Notas-04-so-historico) |
+| 22/09/2025 |  |
+| 26/09/2025 | docker compartilhando pastas entre computador e container [nota de aula](https://github.com/sistemas-operacionais/2025.2-Notas-05-docker-compilar) |
 | 29/09/2025 | |
 | 06/10/2025 | |
 | 10/10/2025 | |
