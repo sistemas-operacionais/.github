@@ -21,8 +21,8 @@
 | 19/09/2025 | [nota de aula sobre história da computação](https://github.com/sistemas-operacionais/2025-2-Notas-04-so-historico) |
 | 22/09/2025 |  |
 | 26/09/2025 | docker compartilhando pastas entre computador e container [nota de aula](https://github.com/sistemas-operacionais/2025.2-Notas-05-docker-compilar) |
-| 29/09/2025 | |
-| 06/10/2025 | |
+| 29/09/2025 | docker compartilhando pastas entre computador e container [nota de aula](https://github.com/sistemas-operacionais/2025.2-Notas-05-docker-compilar) |
+| 06/10/2025 | [estrutura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-02.pdf) e [arquitetura](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-03.pdf) de sistemas operacionais<br />[atividade de python com docker](https://github.com/sistemas-operacionais/2025.2-Atividades-03-Docker-Python) |
 | 10/10/2025 | |
 | 11/10/2025 | (sábado) |
 | 20/10/2025 | |
