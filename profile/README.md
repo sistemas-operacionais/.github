@@ -26,14 +26,14 @@
 | 10/10/2025<br>11/10/2025(sábado) | [atividade (02) de python com docker](https://github.com/sistemas-operacionais/2025.2-Atividades-02-Docker-Python) |
 | 13/10/2025 | [Cap. 4 - O conceito de tarefa](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf)<br />[atividade (03) sobre estados](https://github.com/sistemas-operacionais/2025.2-Atividades-03-Tarefas-Estado) |
 | 17/10/2025 | [Cap.5 - Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-05.pdf) |
-| 20/10/2025 | **luto**<br />atividade |
+| 20/10/2025 | **luto**<br />[atividade d04 threads](https://github.com/sistemas-operacionais/2025.2-Atividades-04-Tarefas-Threads) |
 | 24/10/2025 | [Cap.6 - Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-06.pdf)<br />atividade |
-| 25/10/2025 | (sábado) |
-| 31/10/2025 | |
+| 25/10/2025 | (sábado) [atividade 04 threads](https://github.com/sistemas-operacionais/2025.2-Atividades-04-Tarefas-Threads) |
+| 31/10/2025 | sem aula |
 | 03/11/2025 | Revisão das atividades |
 | 07/11/2025 | [Cap. 8 Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) e [Cap. 9 Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
-| 08/11/2025 | (sábado) |
-| 10/11/2025 | _1o bimestre fim_<br /> |
+| 08/11/2025 | (sábado) [atividade 5 - docker django](https://github.com/sistemas-operacionais/2025.2-Atividades-05-Docker-Django) |
+| 10/11/2025 | _1o bimestre fim_<br />**data para entrega das atividades avaliativas**<br /> |
 | 14/11/2025 | *2o bimestre*<br /> |
 | 17/11/2025 |  |
 | 24/11/2025 |  |
