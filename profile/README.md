@@ -33,7 +33,7 @@
 | 03/11/2025 | Revisão das atividades |
 | 07/11/2025 | [Cap. 8 Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) e [Cap. 9 Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
 | 08/11/2025 | (sábado) [atividade 5 - docker django](https://github.com/sistemas-operacionais/2025.2-Atividades-05-Docker-Django) |
-| 10/11/2025 | _1o bimestre fim_<br />**data para entrega das atividades avaliativas**<br /> |
+| 10/11/2025 | _1o bimestre fim_<br />**data para entrega das atividades avaliativas**<br />[Cap 10 - Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) |
 | 14/11/2025 | *2o bimestre*<br /> |
 | 17/11/2025 |  |
 | 24/11/2025 |  |
