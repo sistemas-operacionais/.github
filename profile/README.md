@@ -31,11 +31,11 @@
 | 25/10/2025 | (sábado) [atividade 04 threads](https://github.com/sistemas-operacionais/2025.2-Atividades-04-Tarefas-Threads) |
 | 31/10/2025 | sem aula |
 | 03/11/2025 | Revisão das atividades |
-| 07/11/2025 | [Cap. 8 Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) e [Cap. 9 Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
+| 07/11/2025 | Não houve aula - atividade de programação web |
 | 08/11/2025 | (sábado) [atividade 5 - docker django](https://github.com/sistemas-operacionais/2025.2-Atividades-05-Docker-Django) |
-| 10/11/2025 | _1o bimestre fim_<br />**data para entrega das atividades avaliativas**<br />[Cap 10 - Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) |
-| 14/11/2025 | *2o bimestre*<br /> |
-| 17/11/2025 |  |
+| 10/11/2025 | _1o bimestre fim_<br />**data para entrega das atividades avaliativas**<br />Gestão de entradas/saídas [Cap. 19 Hardware de entrada/saída](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-19.pdf) e [Cap. 21 - Dispositivos de armazenamento](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-21.pdf) |
+| 14/11/2025 | *2o bimestre*<br />[Cap. 8 Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) e [Cap. 9 Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-09.pdf) |
+| 17/11/2025 | [Cap 10 - Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf) |
 | 24/11/2025 |  |
 | 28/11/2025 |  |
 | 29/11/2025 | (sábado) |
