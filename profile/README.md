@@ -35,8 +35,8 @@
 | 08/11/2025 | (sábado) [atividade 5 - docker django](https://github.com/sistemas-operacionais/2025.2-Atividades-05-Docker-Django) |
 | 10/11/2025 | _1o bimestre fim_<br />**data para entrega das atividades avaliativas**<br />Gestão de entradas/saídas [Cap. 19 Hardware de entrada/saída](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-19.pdf) e [Cap. 21 - Dispositivos de armazenamento](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-21.pdf) |
 | 14/11/2025 | *2o bimestre*<br />Comunicação entre tarefas [Cap. 8 do Livro texto](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
-| 17/11/2025 | threads em python [notas de aula](https://github.com/sistemas-operacionais/python-threads) e tarefa 1 do 2o bimestre |
-| 24/11/2025 |  |
+| 17/11/2025 | threads em python [notas de aula](https://github.com/sistemas-operacionais/python-threads) |
+| 24/11/2025 | threads em python [notas de aula](https://github.com/sistemas-operacionais/python-threads)<br />sockets em python [notas de aula](https://github.com/sistemas-operacionais/python-sockets) |
 | 28/11/2025 |  |
 | 29/11/2025 | (sábado) |
 | 01/12/2025 |  |
