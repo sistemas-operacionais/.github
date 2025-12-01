@@ -37,9 +37,9 @@
 | 14/11/2025 | *2o bimestre*<br />Comunicação entre tarefas [Cap. 8 do Livro texto](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-08.pdf) |
 | 17/11/2025 | threads em python [notas de aula](https://github.com/sistemas-operacionais/python-threads) |
 | 24/11/2025 | threads em python [notas de aula](https://github.com/sistemas-operacionais/python-threads)<br />sockets em python [notas de aula](https://github.com/sistemas-operacionais/python-sockets) |
-| 28/11/2025 |  |
-| 29/11/2025 | (sábado) |
-| 01/12/2025 |  |
+| 28/11/2025 | sockets em python [notas de aula](https://github.com/sistemas-operacionais/python-sockets) |
+| 29/11/2025 | (sábado) [atividade comunicação de tarefas](https://github.com/sistemas-operacionais/2025.2-2-1-Tarefas-Comunicacao) |
+| 01/12/2025 | [atividade comunicação de tarefas](https://github.com/sistemas-operacionais/2025.2-2-1-Tarefas-Comunicacao) |
 | 05/12/2025 |  |
 | 08/12/2025 |  |
 | 12/12/2025 |  |
