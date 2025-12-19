@@ -45,7 +45,7 @@
 | 12/12/2025 | **jogos internos** |
 | 15/12/2025 | [Cap. 10 - coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-10.pdf)  |
 | 19/12/2025 | [atividade em sala](https://github.com/sistemas-operacionais/2025.2-2-2-Tarefas-Coordenacao-Python/) |
-| 22/12/2025 |  |
+| 22/12/2025 | **Lab 8** [Gerenciando o Datacenter](https://github.com/sistemas-operacionais/2025.2-2-3-Tarefas-Datacenter-Gerenciamento) |
 | 24/12/2025 a 18/01/2026 | *recesso* |
 | 19/01/2026 | |
 | 23/01/2026 | |
