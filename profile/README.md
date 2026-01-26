@@ -47,9 +47,9 @@
 | 19/12/2025 | [atividade em sala](https://github.com/sistemas-operacionais/2025.2-2-2-Tarefas-Coordenacao-Python/) |
 | 22/12/2025 | **Lab 8** [Gerenciando o Datacenter](https://github.com/sistemas-operacionais/2025.2-2-3-Tarefas-Datacenter-Gerenciamento) |
 | 24/12/2025 a 18/01/2026 | *recesso* |
-| 19/01/2026 | |
-| 23/01/2026 | |
-| 26/01/2026 | |
+| 19/01/2026 | visita ao datacenter do IFRN FIXME |
+| 23/01/2026 | sem aula |
+| 26/01/2026 | Interação entre tarefas [Cap. 12 - Problemas clássicos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-12.pdf) [Cap. 13 - Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-13.pdf) |
 | 30/01/2026 | |
 | 31/01/2026 | (sábado) |
 | 02/02/2026 | |
