@@ -50,9 +50,9 @@
 | 19/01/2026 | visita ao datacenter do IFRN FIXME |
 | 23/01/2026 | sem aula |
 | 26/01/2026 | Interação entre tarefas [Cap. 12 - Problemas clássicos](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-12.pdf) [Cap. 13 - Impasses](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-13.pdf) |
-| 30/01/2026 | |
-| 31/01/2026 | (sábado) |
+| 30/01/2026 | **atividade** [jantar dos filósofos](https://github.com/sistemas-operacionais/2025.2-2-4-Tarefas-Concorrencia-Problemas-Classicos) |
+| 31/01/2026 | (sábado)<br />**atividade** [jantar dos filósofos](https://github.com/sistemas-operacionais/2025.2-2-4-Tarefas-Concorrencia-Problemas-Classicos) |
 | 02/02/2026 | |
 | 06/02/2026 | |
-| 09/02/2026 | _2o bimestre fim_<br /> |
+| 09/02/2026 | _2o bimestre fim_<br />apresentação do janar dos filósofos e do  |
 | 11-13/02/2026 | *provas finais* |
