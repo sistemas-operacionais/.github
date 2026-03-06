@@ -53,7 +53,7 @@
 | 34 | 03/07/2026 | a definir |
 | 35 | 06/07/2026 | a definir |
 | 36 | 10/07/2026 | a definir |
-| 37 | 11/07/2026 | a definir |
+| 37 | 11/07/2026 | **sábado**<br />a definir |
 | 38 | 13/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
 | 39 | 17/07/2026 | correção de avaliação |
 | 40 | 20/07/2026 | _**2o bimestre fim**_<br />entrega do resultado final |
