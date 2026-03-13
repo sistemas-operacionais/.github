@@ -19,7 +19,7 @@
 | -- | -------- | ---- |
 | 01 | 13/03/26 | **1o bimestre**<br />Aula inicial: [introdução a SO](https://github.com/sistemas-operacionais/2025.2-Notas-01-Introducao) e [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao) |
 | 02 | 16/03/2026 | a definir |
-| 03 | 20/03/2026 | a definir |
+| 03 | 20/03/2026 | Lab de ideias |
 | 04 | 21/03/2026 | **sábado**<br />a definir |
 | 05 | 23/03/2026 | :pushpin: _avaliação_ :one:.:one: presencial |
 | 06 | 27/03/2026 | correção da avalição |
