@@ -21,7 +21,7 @@
 | 02 | 16/03/2026 | [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao) |
 | 03 | 20/03/2026 | [docker - executando src no conteiner](https://github.com/sistemas-operacionais/2025.2-Notas-05-docker-compilar) |
 | 04 | 21/03/2026 | **sábado**<br />a definir |
-| 05 | 23/03/2026 | :pushpin: _avaliação_ :one:.:one: presencial |
+| 05 | 23/03/2026 | :pushpin: [avaliação :one:.:one: presencial](https://github.com/sistemas-operacionais/2026-1-atividade-1-1) |
 | 06 | 27/03/2026 | correção da avalição |
 | 07 | 30/03/2026 | a definir |
 | 08 | 06/04/2026 | a definir |
