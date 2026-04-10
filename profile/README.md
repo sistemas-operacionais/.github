@@ -24,8 +24,8 @@
 | 05 | 23/03/2026 | :pushpin: [avaliação :one:.:one: presencial](https://github.com/sistemas-operacionais/2026-1-atividade-1-1) |
 | 06 | 27/03/2026 | correção da avalição |
 | 07 | 30/03/2026 | Parte I: Introdução [2: Estrutura de um SO](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-02.pdf) e [3: Arquiteturas de SOs](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-03.pdf) |
-| 08 | 06/04/2026 | a definir |
-| 09 | 10/04/2026 | a definir |
+| 08 | 06/04/2026 | palestra com [Victor](https://github.com/V-Matheus/) sobre dev com IA profissionalmente |
+| 09 | 10/04/2026 | [Parte II: Gestão de tarefas - Capítulo 4 O conceito de tarefa](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-04.pdf) |
 | 10 | 13/04/2026 | a definir |
 | 11 | 17/04/2026 | a definir |
 | 12 | 18/04/2026 | **sábado**<br />a definir |
