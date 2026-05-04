@@ -27,16 +27,16 @@
 | 08 | 06/04/2026 | palestra com [Victor](https://github.com/V-Matheus/) sobre dev com IA profissionalmente |
 | 09 | 10/04/2026 | [Parte II: Gestão de tarefas - Capítulo 4 O conceito de tarefa](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-04.pdf) |
 | 10 | 13/04/2026 | [Parte II: Gestão de tarefas - Capítulo 5: Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-05.pdf) |
-| 11 | 17/04/2026 | [Parte II: Gestão de tarefas - Capítulo 6: Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-06.pdf) |
-| 12 | 18/04/2026 | **sábado**<br />a definir |
-| 13 | 24/04/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
-| 14 | 25/04/2026 | **sábado**<br />a definir |
-| 15 | 27/04/2026 | correção da avaliação |
-| 16 | 04/05/2026 | a definir |
-| 17 | 08/05/2026 | a definir |
-| 18 | 11/05/2026 | a definir |
-| 19 | 15/05/2026 | :pushpin: _avaliação_ :one:.:three: presencial |
-| 20 | 18/05/2026 | _**1o bimestre fim**_<br />correção da avaliação |
+| 11 | 17/04/2026 |  [Parte II: Gestão de tarefas - Capítulo 5: Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-05.pdf) |
+| 12 | 18/04/2026 | **sábado**<br />atividade |
+| 13 | 24/04/2026 | atividade |
+| 14 | 25/04/2026 | **sábado**<br />atividade |
+| 15 | 27/04/2026 | [Parte II: Gestão de tarefas - Capítulo 6: Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-06.pdf) |
+| 16 | 04/05/2026 | [Parte II: Gestão de tarefas - Capítulo 6: Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-06.pdf) |
+| 17 | 08/05/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
+| 18 | 11/05/2026 | correção da avaliação |
+| 19 | 15/05/2026 | a definir |
+| 20 | 18/05/2026 | _**1o bimestre fim**_<br />a definir |
 | 21 | 22/05/2026 | **2o bimestre**<br />a definir |
 | 22 | 25/05/2026 | a definir |
 | 23 | 29/05/2026 | a definir |
