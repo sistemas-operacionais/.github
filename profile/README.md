@@ -33,10 +33,10 @@
 | 14 | 25/04/2026 | **sábado**<br />atividade |
 | 15 | 27/04/2026 | [Parte II: Gestão de tarefas - Capítulo 6: Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-06.pdf) |
 | 16 | 04/05/2026 | [Parte II: Gestão de tarefas - Capítulo 6: Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-06.pdf) |
-| 17 | 08/05/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
-| 18 | 11/05/2026 | correção da avaliação |
-| 19 | 15/05/2026 | a definir |
-| 20 | 18/05/2026 | _**1o bimestre fim**_<br />a definir |
+| 17 | 08/05/2026 | :pushpin: _avaliação_ :one:.:two: [atividade avaliativa sobre threads](https://github.com/sistemas-operacionais/2026-1-atividade-1-2/) |
+| 18 | 11/05/2026 | atividade avaliativa |
+| 19 | 15/05/2026 | definição dos grupos de trabalho |
+| 20 | 18/05/2026 | _**1o bimestre fim**_<br />docker compose |
 | 21 | 22/05/2026 | **2o bimestre**<br />a definir |
 | 22 | 25/05/2026 | a definir |
 | 23 | 29/05/2026 | a definir |
