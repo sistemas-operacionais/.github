@@ -37,8 +37,8 @@
 | 18 | 11/05/2026 | atividade avaliativa |
 | 19 | 15/05/2026 | definição dos grupos de trabalho |
 | 20 | 18/05/2026 | _**1o bimestre fim**_<br />docker compose |
-| 21 | 22/05/2026 | **2o bimestre**<br />a definir |
-| 22 | 25/05/2026 | a definir |
+| 21 | 22/05/2026 | **2o bimestre**<br />atividade |
+| 22 | 25/05/2026 | [Parte III: Interação entre tarefas - Cap 8 Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-08.pdf) |
 | 23 | 29/05/2026 | a definir |
 | 24 | 30/05/2026 | **sábado**<br />a definir |
 | 25 | 01/06/2026 | a definir |
