@@ -39,12 +39,12 @@
 | 20 | 18/05/2026 | _**1o bimestre fim**_<br />docker compose |
 | 21 | 22/05/2026 | **2o bimestre**<br />atividade |
 | 22 | 25/05/2026 | [Parte III: Interação entre tarefas - Cap 8 Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-08.pdf) |
-| 23 | 29/05/2026 | a definir |
-| 24 | 30/05/2026 | **sábado**<br />a definir |
-| 25 | 01/06/2026 | a definir |
-| 26 | 06/06/2026 | **sábado**<br />a definir |
-| 27 | 08/06/2026 | a definir |
-| 28 | 12/06/2026 | a definir |
+| 23 | 29/05/2026 | Apresentação |
+| 24 | 30/05/2026 | **sábado**<br />atividade |
+| 25 | 01/06/2026 | Apresentação |
+| 26 | 06/06/2026 | **sábado**<br />[Parte III: Interação entre tarefas - Cap 8: Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-08.pdf) |
+| 27 | 08/06/2026 | [Parte III: Interação entre tarefas - Cap 9: Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-09.pdf) |
+| 28 | 12/06/2026 | [Parte III: Interação entre tarefas - Cap 10: Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-10.pdf) |
 | 29 | 15/06/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
 | 30 | 19/06/2026 | correção de avaliação |
 | 31 | 22/06/2026 | a definir |
