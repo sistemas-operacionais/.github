@@ -45,8 +45,8 @@
 | 26 | 06/06/2026 | **sábado**<br />[Parte III: Interação entre tarefas - Cap 8: Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-08.pdf) |
 | 27 | 08/06/2026 | [Parte III: Interação entre tarefas - Cap 9: Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-09.pdf) |
 | 28 | 12/06/2026 | [Parte III: Interação entre tarefas - Cap 10: Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-10.pdf) |
-| 29 | 15/06/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
-| 30 | 19/06/2026 | correção de avaliação |
+| 29 | 15/06/2026 | [impasse (deadlock)](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-13.pdf) |
+| 30 | 19/06/2026 | [semáforos em python](https://github.com/sistemas-operacionais/python-semaforos) |
 | 31 | 22/06/2026 | a definir |
 | 32 | 26/06/2026 | a definir |
 | 33 | 29/06/2026 | a definir |
