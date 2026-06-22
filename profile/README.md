@@ -47,7 +47,7 @@
 | 28 | 12/06/2026 | [Parte III: Interação entre tarefas - Cap 10: Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-10.pdf) |
 | 29 | 15/06/2026 | [impasse (deadlock)](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-13.pdf) |
 | 30 | 19/06/2026 | [semáforos em python](https://github.com/sistemas-operacionais/python-semaforos) |
-| 31 | 22/06/2026 | a definir |
+| 31 | 22/06/2026 | :pushpin: _avaliação_ :two:.:one: [semáforos](https://github.com/sistemas-operacionais/2026-1-atividade-2-1/) |
 | 32 | 26/06/2026 | a definir |
 | 33 | 29/06/2026 | a definir |
 | 34 | 03/07/2026 | a definir |
