@@ -1,10 +1,10 @@
 # Sistemas operacionais
 
 ## Informações gerais
-- **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central).
+- **Público alvo**: alunos da disciplina de SO (Sistemas Operacionais) do curso de [TADS (Superior em Tecnologia em Análise e Desenvolvimento de Sistemas)](https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) na [DIATINF (Diretoria Acadêmica de Gestão e Tecnologia da Informação)](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central)](https://portal.ifrn.edu.br/campus/natalcentral/).
 - disciplina: **SO** Sistemas Operacionais
 - professor: [Leonardo A. Minora](https://github.com/leonardo-minora)
-- aulas: 2M12 (Lab 01) e 6M56 (Lab 01)
+- aulas: 2M34 (Lab 08) e 4M34 (Lab 08)
 - semestre: 2026.2
 
 ## Livros e links
@@ -13,48 +13,48 @@
 2. [ARPACI-DUSSEAU, Remzi; ARPACI-DUSSEAU, Andrea; REIHER, Peter. Operating Systems: Three Easy Pieces.](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 3. [GOMEX, Rafael. Docker para desenvolvedores.](https://leanpub.com/dockerparadesenvolvedores) [github](https://github.com/gomex/docker-para-desenvolvedores)
 
-## Calendário 2025.2
+## Calendário 2026.2
 
 | #  | Data     | Nota |
 | -- | -------- | ---- |
-| 01 | 13/03/26 | **1o bimestre**<br />Aula inicial: [introdução a SO](https://github.com/sistemas-operacionais/2025.2-Notas-01-Introducao) |
-| 02 | 16/03/2026 | [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao) |
-| 03 | 20/03/2026 | [docker - executando src no conteiner](https://github.com/sistemas-operacionais/2025.2-Notas-05-docker-compilar) |
-| 04 | 21/03/2026 | **sábado**<br />a definir |
-| 05 | 23/03/2026 | :pushpin: [avaliação :one:.:one: presencial](https://github.com/sistemas-operacionais/2026-1-atividade-1-1) |
-| 06 | 27/03/2026 | correção da avalição |
-| 07 | 30/03/2026 | Parte I: Introdução [2: Estrutura de um SO](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-02.pdf) e [3: Arquiteturas de SOs](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-03.pdf) |
-| 08 | 06/04/2026 | palestra com [Victor](https://github.com/V-Matheus/) sobre dev com IA profissionalmente |
-| 09 | 10/04/2026 | [Parte II: Gestão de tarefas - Capítulo 4 O conceito de tarefa](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-04.pdf) |
-| 10 | 13/04/2026 | [Parte II: Gestão de tarefas - Capítulo 5: Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-05.pdf) |
-| 11 | 17/04/2026 |  [Parte II: Gestão de tarefas - Capítulo 5: Implementação de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-05.pdf) |
-| 12 | 18/04/2026 | **sábado**<br />atividade |
-| 13 | 24/04/2026 | atividade |
-| 14 | 25/04/2026 | **sábado**<br />atividade |
-| 15 | 27/04/2026 | [Parte II: Gestão de tarefas - Capítulo 6: Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-06.pdf) |
-| 16 | 04/05/2026 | [Parte II: Gestão de tarefas - Capítulo 6: Escalonamento de tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-06.pdf) |
-| 17 | 08/05/2026 | :pushpin: _avaliação_ :one:.:two: [atividade avaliativa sobre threads](https://github.com/sistemas-operacionais/2026-1-atividade-1-2/) |
-| 18 | 11/05/2026 | atividade avaliativa |
-| 19 | 15/05/2026 | definição dos grupos de trabalho |
-| 20 | 18/05/2026 | _**1o bimestre fim**_<br />docker compose |
-| 21 | 22/05/2026 | **2o bimestre**<br />atividade |
-| 22 | 25/05/2026 | [Parte III: Interação entre tarefas - Cap 8 Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-08.pdf) |
-| 23 | 29/05/2026 | Apresentação |
-| 24 | 30/05/2026 | **sábado**<br />atividade |
-| 25 | 01/06/2026 | Apresentação |
-| 26 | 06/06/2026 | **sábado**<br />[Parte III: Interação entre tarefas - Cap 8: Comunicação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-08.pdf) |
-| 27 | 08/06/2026 | [Parte III: Interação entre tarefas - Cap 9: Mecanismos de comunicação](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-09.pdf) |
-| 28 | 12/06/2026 | [Parte III: Interação entre tarefas - Cap 10: Coordenação entre tarefas](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-10.pdf) |
-| 29 | 15/06/2026 | [impasse (deadlock)](https://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-texto-13.pdf) |
-| 30 | 19/06/2026 | [semáforos em python](https://github.com/sistemas-operacionais/python-semaforos) |
-| 31 | 22/06/2026 | :pushpin: _avaliação_ :two:.:one: [semáforos](https://github.com/sistemas-operacionais/2026-1-atividade-2-1/) |
-| 32 | 26/06/2026 | a definir |
-| 33 | 29/06/2026 | a definir |
-| 34 | 03/07/2026 | a definir |
-| 35 | 06/07/2026 | a definir |
-| 36 | 10/07/2026 | a definir |
-| 37 | 11/07/2026 | **sábado**<br />a definir |
-| 38 | 13/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
-| 39 | 17/07/2026 | correção de avaliação |
-| 40 | 20/07/2026 | _**2o bimestre fim**_<br />entrega do resultado final |
-| -- | 21-22/07/2026 | *provas finais* |
+| 01 | //26 | **1o bimestre**<br />Aula inicial: [introdução a SO](https://github.com/sistemas-operacionais/2025.2-Notas-01-Introducao) |
+| 02 | //2026 | [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao) |
+| 03 | //2026 |  |
+| 04 | //2026 |  |
+| 05 | //2026 |  |
+| 06 | //2026 |  |
+| 07 | //2026 |  |
+| 08 | //2026 |  |
+| 09 | //2026 |  |
+| 10 | //2026 |  |
+| 11 | //2026 |  |
+| 12 | //2026 |  |
+| 13 | //2026 |  |
+| 14 | //2026 |  |
+| 15 | //2026 |  |
+| 16 | //2026 |  |
+| 17 | //2026 |  |
+| 18 | //2026 |  |
+| 19 | //2026 |  |
+| 20 | //2026 | _**1o bimestre fim**_<br /> |
+| 21 | //2026 | **2o bimestre**<br /> |
+| 22 | //2026 |  |
+| 23 | //2026 |  |
+| 24 | //2026 |  |
+| 25 | //2026 |  |
+| 26 | //2026 |  |
+| 27 | //2026 |  |
+| 28 | //2026 |  |
+| 29 | //2026 |  |
+| 30 | //2026 |  |
+| 31 | //2026 |  |
+| 32 | //2026 |  |
+| 33 | //2026 |  |
+| 34 | //2026 |  |
+| 35 | //2026 |  |
+| 36 | //2026 |  |
+| 37 | //2026 |  |
+| 38 | //2026 |  |
+| 39 | //2026 |  |
+| 40 | //2026 | _**2o bimestre fim**_<br />entrega do resultado final |
+| -- | //2026 | *provas finais* |
