@@ -19,7 +19,7 @@
 | -- | -------- | ---- |
 | 01 | 10/08/26 | **1o bimestre**<br />Aula inicial: [introdução a SO](https://github.com/sistemas-operacionais/2025.2-Notas-01-Introducao) |
 | 02 | 12/08/2026 | [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao) |
-| 03 | 17/08/2026 | atividade 1.1 - pratica com docker |
+| 03 | 17/08/2026 | [atividade 1.1 - pratica com docker](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-1) |
 | 04 | 19/08/2026 |  |
 | 05 | 22/08/2026 | **sábado**<br />atividade |
 | 06 | 24/08/2026 |  |
