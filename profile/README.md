@@ -26,7 +26,7 @@
 | 07 | 26/08/2026 | [Threads em python](https://github.com/sistemas-operacionais/python-threads/blob/main/TUTORIAL.md) |
 | 08 | 31/08/2026 | :pushpin: [atividade 1.2 - Prática com Threads](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-2)<br>[Escalonamento de tarefas](https://github.com/sistemas-operacionais/2026-2-Notas-06-Tarefas-Escalonamento/) |
 | 09 | 02/09/2026 | [Comunicação entre tarefas](https://github.com/sistemas-operacionais/2026-2-Notas-06-Tarefas-Comunicacao/) |
-| 10 | 09/09/2026 |  |
+| 10 | 09/09/2026 | Apresentação da [atividade sobre threads](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-2) |
 | 11 | 12/09/2026 | **sábado**<br />atividade |
 | 12 | 14/09/2026 |  |
 | 13 | 16/09/2026 |  |
