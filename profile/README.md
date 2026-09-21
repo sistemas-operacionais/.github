@@ -21,16 +21,16 @@
 | 02 | 12/08/2026 | [introdução a docker](https://github.com/sistemas-operacionais/2025.2-Notas-02-Docker-Introducao) |
 | 03 | 17/08/2026 | :pushpin: [atividade 1.1 - pratica com docker](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-1) |
 | 04 | 19/08/2026 | [Histórico de Sistemas operacionais](https://github.com/sistemas-operacionais/2025-2-Notas-04-so-historico)<br>[Introdução a linux](https://github.com/sistemas-operacionais/2025-2-Notas-03-Linux-Intro) |
-| 05 | 22/08/2026 | **sábado**<br />atividade |
+| 05 | 22/08/2026 | **sábado**<br />atividade<br>[curso udemy: introdução ao sistema operacional linux](https://www.udemy.com/course/linux-ubuntu/) |
 | 06 | 24/08/2026 | [Gerência de tarefas\processos](https://github.com/sistemas-operacionais/2026-2-Notas-05-Tarefas-Introducao/) |
 | 07 | 26/08/2026 | [Threads em python](https://github.com/sistemas-operacionais/python-threads/blob/main/TUTORIAL.md) |
 | 08 | 31/08/2026 | :pushpin: [atividade 1.2 - Prática com Threads](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-2)<br>[Escalonamento de tarefas](https://github.com/sistemas-operacionais/2026-2-Notas-06-Tarefas-Escalonamento/) |
 | 09 | 02/09/2026 | [Comunicação entre tarefas](https://github.com/sistemas-operacionais/2026-2-Notas-06-Tarefas-Comunicacao/) |
 | 10 | 09/09/2026 | Apresentação da [atividade sobre threads](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-2) |
-| 11 | 12/09/2026 | **sábado**<br />atividade |
-| 12 | 14/09/2026 |  |
-| 13 | 16/09/2026 |  |
-| 14 | 21/09/2026 |  |
+| 11 | 12/09/2026 | **sábado**<br />atividade<br>[curso udemy: introdução ao sistema operacional linux](https://www.udemy.com/course/linux-ubuntu/) |
+| 12 | 14/09/2026 | Apresentação da atividade sobre threads |
+| 13 | 16/09/2026 | sem aula |
+| 14 | 21/09/2026 | [Coordenação entre tarefas](https://github.com/sistemas-operacionais/2026-2-Notas-07-Tarefas-Coordenacao/) |
 | 15 | 23/09/2026 |  |
 | 16 | 28/09/2026 |  |
 | 17 | 30/09/2026 |  |
@@ -58,3 +58,5 @@
 | 39 | 14/12/2026 |  |
 | 40 | 16/12/2026 | _**2o bimestre fim**_<br />entrega do resultado final |
 | -- | 21-23/12/2026 | *provas finais* |
+
+---
