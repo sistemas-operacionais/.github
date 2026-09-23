@@ -31,9 +31,9 @@
 | 12 | 14/09/2026 | Apresentação da atividade sobre threads |
 | 13 | 16/09/2026 | sem aula |
 | 14 | 21/09/2026 | [Coordenação entre tarefas](https://github.com/sistemas-operacionais/2026-2-Notas-07-Tarefas-Coordenacao/) |
-| 15 | 23/09/2026 |  |
-| 16 | 28/09/2026 |  |
-| 17 | 30/09/2026 |  |
+| 15 | 23/09/2026 | :pushpin: [atividade 1.3 - Prática com comunicação entre tarefas](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-3) |
+| 16 | 28/09/2026 | Visita ao datacenter do IFRN |
+| 17 | 30/09/2026 | Apresentação da atividade 1.3 |
 | 18 | 05/10/2026 |  |
 | 19 | 07/10/2026 | _**1o bimestre fim**_<br /> |
 | 20 | 14/10/2026 | **2o bimestre**<br /> |
