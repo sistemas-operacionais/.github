@@ -34,13 +34,13 @@
 | 15 | 23/09/2026 | :pushpin: [atividade 1.3 - Prática com comunicação entre tarefas](https://github.com/sistemas-operacionais/2026-2-Bimestre-1-Atividade-3) |
 | 16 | 28/09/2026 | Visita ao datacenter do IFRN |
 | 17 | 30/09/2026 | Apresentação da atividade 1.3 |
-| 18 | 05/10/2026 |  |
-| 19 | 07/10/2026 | _**1o bimestre fim**_<br /> |
-| 20 | 14/10/2026 | **2o bimestre**<br /> |
-| 21 | 19/10/2026 |  |
-| 22 | 21/10/2026 |  |
+| 18 | 05/10/2026 | sem aula |
+| 19 | 07/10/2026 | _**1o bimestre fim**_<br />sem aula |
+| 20 | 14/10/2026 | **2o bimestre**<br />sem aula|
+| 21 | 19/10/2026 | [Docker compose](https://github.com/sistemas-operacionais/docker-02-compose) |
+| 22 | 21/10/2026 | [Docker compose](https://github.com/sistemas-operacionais/docker-02-compose) |
 | 23 | 24/10/2026 | **sábado**<br />atividade |
-| 24 | 26/10/2026 |  |
+| 24 | 26/10/2026 | Apresentação de trabalhos sobre comunicação entre processos |
 | 25 | 04/11/2026 |  |
 | 26 | 07/11/2026 | **sábado**<br />atividade |
 | 27 | 09/11/2026 |  |
