@@ -40,9 +40,9 @@
 | 21 | 19/10/2026 | [Docker compose](https://github.com/sistemas-operacionais/docker-02-compose) |
 | 22 | 21/10/2026 | [Docker compose](https://github.com/sistemas-operacionais/docker-02-compose) |
 | 23 | 24/10/2026 | **sábado**<br />atividade |
-| 24 | 26/10/2026 | Apresentação de trabalhos sobre comunicação entre processos |
-| 25 | 04/11/2026 |  |
-| 26 | 07/11/2026 | **sábado**<br />atividade |
+| 24 | 26/10/2026 | Dúvidas |
+| 25 | 28/10/2026 | Apresentação de trabalhos sobre comunicação entre processos |
+| 26 | 04/11/2026 | Apresentação de trabalhos sobre comunicação entre processos |
 | 27 | 09/11/2026 |  |
 | 28 | 11/11/2026 |  |
 | 29 | 14/11/2026 | **sábado**<br />atividade |
