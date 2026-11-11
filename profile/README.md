@@ -43,8 +43,8 @@
 | 24 | 26/10/2026 | Dúvidas |
 | 25 | 28/10/2026 | Apresentação de trabalhos sobre comunicação entre processos |
 | 26 | 04/11/2026 | Apresentação de trabalhos sobre comunicação entre processos |
-| 27 | 09/11/2026 |  |
-| 28 | 11/11/2026 |  |
+| 27 | 09/11/2026 | [docker - redes](https://github.com/sistemas-operacionais/docker-03-compose-net) |
+| 28 | 11/11/2026 | [docker - redes](https://github.com/sistemas-operacionais/docker-03-compose-net) |
 | 29 | 14/11/2026 | **sábado**<br />atividade |
 | 30 | 16/11/2026 |  |
 | 31 | 18/11/2026 |  |
